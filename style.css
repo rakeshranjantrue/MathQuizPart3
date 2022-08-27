@@ -1,0 +1,30 @@
+body
+{
+	background-image: url("https://wallpapersafari.com/image/unique-wallpaper-border-ideas.jpg");
+}
+
+h1{
+	color: white;
+	font-size: x-large;
+	font-family: 'Comic Sans MS';
+}
+
+h2{
+	color: white;
+	font-size: x-large;
+	font-family: 'Comic Sans MS';
+}
+h3{
+	color: white;
+	font-size: x-large;
+	font-family: 'Comic Sans MS';
+}
+
+#output {
+	background-color: white;
+	border-radius: 10px;
+	border-top: 10px solid mediumvioletred;
+	padding : 10px;
+	float: none;
+	text-align: left;
+}
